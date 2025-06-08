@@ -2,381 +2,381 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:9081/pt-br/authors/</loc>
+    <loc>//localhost:9081/pt-br/authors/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/authors/"
+                href="//localhost:9081/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/authors/"
+                href="//localhost:9081/pt-br/authors/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/categories/</loc>
+    <loc>//localhost:9081/pt-br/categories/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/categories/"
+                href="//localhost:9081/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/categories/"
+                href="//localhost:9081/pt-br/categories/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/tags/css/</loc>
+    <loc>//localhost:9081/pt-br/tags/css/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/tags/css/"
+                href="//localhost:9081/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/tags/css/"
+                href="//localhost:9081/pt-br/tags/css/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/categories/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <loc>//localhost:9081/pt-br/categories/demonstra%C3%A7%C3%A3o-do-tema/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9081/pt-br/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <loc>//localhost:9081/pt-br/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9081/pt-br/posts/markdown-syntax/</loc>
+    <loc>//localhost:9081/pt-br/posts/markdown-syntax/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/posts/markdown-syntax/"
+                href="//localhost:9081/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/posts/markdown-syntax/"
+                href="//localhost:9081/pt-br/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/tags/html/</loc>
+    <loc>//localhost:9081/pt-br/tags/html/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/tags/html/"
+                href="//localhost:9081/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/tags/html/"
+                href="//localhost:9081/pt-br/tags/html/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/tags/hugo/</loc>
+    <loc>//localhost:9081/pt-br/tags/hugo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/tags/hugo/"
+                href="//localhost:9081/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/tags/hugo/"
+                href="//localhost:9081/pt-br/tags/hugo/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/</loc>
+    <loc>//localhost:9081/pt-br/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/"
+                href="//localhost:9081/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/"
+                href="//localhost:9081/pt-br/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/tags/markdown/</loc>
+    <loc>//localhost:9081/pt-br/tags/markdown/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/tags/markdown/"
+                href="//localhost:9081/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/tags/markdown/"
+                href="//localhost:9081/pt-br/tags/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/posts/</loc>
+    <loc>//localhost:9081/pt-br/posts/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/posts/"
+                href="//localhost:9081/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/posts/"
+                href="//localhost:9081/pt-br/posts/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/authors/programador-solit%C3%A1rio/</loc>
+    <loc>//localhost:9081/pt-br/authors/programador-solit%C3%A1rio/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9081/pt-br/series/</loc>
+    <loc>//localhost:9081/pt-br/series/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/series/"
+                href="//localhost:9081/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/series/"
+                href="//localhost:9081/pt-br/series/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/categories/sintaxe/</loc>
+    <loc>//localhost:9081/pt-br/categories/sintaxe/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9081/pt-br/tags/</loc>
+    <loc>//localhost:9081/pt-br/tags/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/tags/"
+                href="//localhost:9081/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/tags/"
+                href="//localhost:9081/pt-br/tags/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/posts/rich-content/</loc>
+    <loc>//localhost:9081/pt-br/posts/rich-content/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/posts/rich-content/"
+                href="//localhost:9081/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/posts/rich-content/"
+                href="//localhost:9081/pt-br/posts/rich-content/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/posts/more-rich-content/</loc>
+    <loc>//localhost:9081/pt-br/posts/more-rich-content/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/posts/more-rich-content/"
+                href="//localhost:9081/posts/more-rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/posts/more-rich-content/"
+                href="//localhost:9081/pt-br/posts/more-rich-content/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/posts/math-typesetting/</loc>
+    <loc>//localhost:9081/pt-br/posts/math-typesetting/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/posts/math-typesetting/"
+                href="//localhost:9081/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/posts/math-typesetting/"
+                href="//localhost:9081/pt-br/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/posts/html-and-css-only-tabs/</loc>
+    <loc>//localhost:9081/pt-br/posts/html-and-css-only-tabs/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/posts/html-and-css-only-tabs/"
+                href="//localhost:9081/posts/html-and-css-only-tabs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/posts/html-and-css-only-tabs/"
+                href="//localhost:9081/pt-br/posts/html-and-css-only-tabs/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/authors/lone-coder/</loc>
+    <loc>//localhost:9081/pt-br/authors/lone-coder/</loc>
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/authors/lone-coder/"
+                href="//localhost:9081/authors/lone-coder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/authors/lone-coder/"
+                href="//localhost:9081/pt-br/authors/lone-coder/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/posts/mermaid-support/</loc>
+    <loc>//localhost:9081/pt-br/posts/mermaid-support/</loc>
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/posts/mermaid-support/"
+                href="//localhost:9081/posts/mermaid-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/posts/mermaid-support/"
+                href="//localhost:9081/pt-br/posts/mermaid-support/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/tags/emoji/</loc>
+    <loc>//localhost:9081/pt-br/tags/emoji/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/tags/emoji/"
+                href="//localhost:9081/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/tags/emoji/"
+                href="//localhost:9081/pt-br/tags/emoji/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/posts/emoji-support/</loc>
+    <loc>//localhost:9081/pt-br/posts/emoji-support/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/posts/emoji-support/"
+                href="//localhost:9081/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/posts/emoji-support/"
+                href="//localhost:9081/pt-br/posts/emoji-support/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/posts/hugo-coder-wiki/</loc>
+    <loc>//localhost:9081/pt-br/posts/hugo-coder-wiki/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/posts/hugo-coder-wiki/"
+                href="//localhost:9081/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/posts/hugo-coder-wiki/"
+                href="//localhost:9081/pt-br/posts/hugo-coder-wiki/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/tags/text/</loc>
+    <loc>//localhost:9081/pt-br/tags/text/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/tags/text/"
+                href="//localhost:9081/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/tags/text/"
+                href="//localhost:9081/pt-br/tags/text/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/posts/placeholder-text/</loc>
+    <loc>//localhost:9081/pt-br/posts/placeholder-text/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/posts/placeholder-text/"
+                href="//localhost:9081/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/posts/placeholder-text/"
+                href="//localhost:9081/pt-br/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/autores/autores-de-hugo/</loc>
+    <loc>//localhost:9081/pt-br/autores/autores-de-hugo/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/authors/hugo-authors/"
+                href="//localhost:9081/authors/hugo-authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/autores/autores-de-hugo/"
+                href="//localhost:9081/pt-br/autores/autores-de-hugo/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/categoria/temas/</loc>
+    <loc>//localhost:9081/pt-br/categoria/temas/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:9081/pt-br/categoria/sintaxe/</loc>
+    <loc>//localhost:9081/pt-br/categoria/sintaxe/</loc>
     <lastmod>2023-01-04T23:21:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/categories/syntax/"
+                href="//localhost:9081/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/categoria/sintaxe/"
+                href="//localhost:9081/pt-br/categoria/sintaxe/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/tags/shortcodes/</loc>
+    <loc>//localhost:9081/pt-br/tags/shortcodes/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/tags/shortcodes/"
+                href="//localhost:9081/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/tags/shortcodes/"
+                href="//localhost:9081/pt-br/tags/shortcodes/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/about/</loc>
+    <loc>//localhost:9081/pt-br/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/about/"
+                href="//localhost:9081/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/about/"
+                href="//localhost:9081/pt-br/about/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/contact/</loc>
+    <loc>//localhost:9081/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/contact/"
+                href="//localhost:9081/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/contact/"
+                href="//localhost:9081/pt-br/contact/"
                 />
   </url><url>
-    <loc>http://localhost:9081/pt-br/projects/</loc>
+    <loc>//localhost:9081/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:9081/projects/"
+                href="//localhost:9081/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:9081/pt-br/projects/"
+                href="//localhost:9081/pt-br/projects/"
                 />
   </url>
 </urlset>
